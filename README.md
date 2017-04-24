@@ -1,3 +1,5 @@
+Youtube search via API using only ReactJS and React components
+This is to help me to understand basic React, React Component, states, JSX, ES6, webpack, babel and some other terms
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
